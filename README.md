@@ -225,3 +225,10 @@ Please have a look at the [LICENSE.md](https://github.com/Zulbukharov/kalkancryp
 [pkg-url]: https://pkg.go.dev/github.com/gokalkan/gokalkan
 [reportcard-img]: https://goreportcard.com/badge/Zulbukharov/GoKalkan
 [reportcard-url]: https://goreportcard.com/report/Zulbukharov/GoKalkan
+
+## Tags
+
+```shell
+git tag -a v1.4.2-ex-1 -m "Release version v1.4.2-ex-1"
+git push origin v1.4.2-ex-1
+```
